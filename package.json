@@ -13,7 +13,7 @@
     "fs": "0.0.1-security",
     "fs-extra": "^9.0.1",
     "gray-matter": "^4.0.2",
-    "next": "9.3.5",
+    "next": "11.1.0",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-preset-env": "^6.7.0",
     "react": "16.13.1",
